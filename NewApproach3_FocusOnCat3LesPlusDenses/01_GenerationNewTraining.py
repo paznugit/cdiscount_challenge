@@ -13,7 +13,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 # Categories 3 à analyser
 categories3ToAnalyse = {'1000010653': 13.9,
-'1000015309': 6.5,
+'1000015309': 6.4,
 '1000004085': 5.4,
 '1000004079': 3.6,
 '1000010667': 2.7,
