@@ -1,2 +1,2 @@
 # cdiscount_challenge
-CDiscount Challenge
+Code for cdiscount challenge on http://www.datascience.net
